@@ -1,18 +1,15 @@
 import React from "react";
 import './style.css';
 
+/**
+ * Footer Component
+ */
 const Footer: React.FC = ( ) => {
-
    
     return (
-        <div>
-             <hr></hr>
-            <p>
-            © AlphaTechnology. All rights reserved.
-            </p>
-
-      
-        </div>
+        <footer id="footer">
+        © AlphaTechnology. All rights reserved.
+        </footer>
     );    
 };
 
