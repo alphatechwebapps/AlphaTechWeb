@@ -8,7 +8,7 @@ import Content from './components/Content';
 import Footer from './components/Footer';
 
 /**
- * Main Application: Create the html composed by Header, Content (list of projects) and Footer components
+ * AlphaTech Web - Main Application: Create the html composed by Header, Content (list of projects) and Footer components
  * @returns the html template 
  */
 function App() {
